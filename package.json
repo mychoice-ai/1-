@@ -1,0 +1,33 @@
+{
+  "name": "1-",
+  "version": "1.0.0",
+  "description": "this is the secoumd time i am commit in the githuby",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mychoice-ai/1-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mychoice-ai/1-/issues"
+  },
+  "homepage": "https://github.com/mychoice-ai/1-#readme",
+  "dependencies": {
+    "next": "^15.5.2",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
+  },
+  "devDependencies": {
+    "@types/node": "24.3.0",
+    "@types/react": "19.1.12",
+    "typescript": "5.9.2"
+  }
+}
